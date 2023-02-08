@@ -1,0 +1,6 @@
+string_a = input()
+string_b = input()
+string_c = input()
+print(string_c)
+print(string_b)
+print(string_a)
