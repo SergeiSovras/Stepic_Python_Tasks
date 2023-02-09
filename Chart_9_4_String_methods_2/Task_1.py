@@ -13,7 +13,7 @@ s = 'foobar'
 print(s.endswith('bar'))
 print(s.endswith('baz'))
 
-#М етод find(<sub>, <start>, <end>) находит индекс первого вхождения подстроки <sub> в исходной строке s
+# Метод find(<sub>, <start>, <end>) находит индекс первого вхождения подстроки <sub> в исходной строке s
 s = 'foo bar foo baz foo qux'
 print(s.find('foo'))
 print(s.find('bar'))
